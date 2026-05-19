@@ -23,7 +23,8 @@ To find the sum of 'n' numbers using a FOR loop in LabVIEW.
 ---
 
 ##  Front Panel Layout
-<img width="936" height="858" alt="image" src="https://github.com/user-attachments/assets/d4ee97e8-ae03-4e73-aafb-8f81fd785a0c" />
+<img width="660" height="374" alt="image" src="https://github.com/user-attachments/assets/c849552c-0a8a-45a7-a7b1-c6e8a7cd7ea5" />
+
 
 
 <img width="500" height="329" alt="image" src="https://github.com/user-attachments/assets/a8e7f7b1-bf22-4f6e-a9ee-34f011380148" />
