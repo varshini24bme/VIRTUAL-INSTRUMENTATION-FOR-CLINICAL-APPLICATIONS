@@ -31,7 +31,8 @@ To perform basic arithmetic operations (Addition, Subtraction, Multiplication, D
 
 ##  Block Diagram Description
 
-<img width="737" height="530" alt="image" src="https://github.com/user-attachments/assets/1a832081-f500-46b4-858e-6c2a20f10582" />
+<img width="896" height="726" alt="image" src="https://github.com/user-attachments/assets/ef422bb2-c750-4956-8c01-07ea9d6129b9" />
+
 
 ---
 
