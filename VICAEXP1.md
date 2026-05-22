@@ -39,8 +39,8 @@ To perform basic arithmetic operations (Addition, Subtraction, Multiplication, D
 ---
 
 ##  Output
+<img width="1866" height="1108" alt="image" src="https://github.com/user-attachments/assets/7d70cdd9-f7c0-4ac1-8225-0a416a3ca470" />
 
-<img width="1920" height="1200" alt="VICAEXP1" src="https://github.com/user-attachments/assets/abc66b7b-79c6-44ca-82bb-8bba8091c42a" />
 
 ##  Result
 
