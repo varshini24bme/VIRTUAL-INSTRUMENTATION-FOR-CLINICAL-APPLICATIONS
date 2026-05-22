@@ -16,7 +16,7 @@ To perform Boolean operations (AND, OR, XOR, NOT, NAND) using LabVIEW.
 |------|-------------|
 | 1 | Start LabVIEW and select **Blank VI** |
 | 2 | Create the **Front Panel** and **Block Diagram** panel |
-| 3 | Add **Push Buttons** as inputs and **Round LEDs** as outputs on the Front Panel |
+| 3 | Add **Push Buttons** as inputs and **Round LEDs** as outputs on the Front Panel | 
 | 4 | Place Boolean operators (`AND`, `OR`, `XOR`, `NOT`, `NAND`) in the **Block Diagram** panel |
 | 5 | Wire Boolean inputs and outputs in the **Block Diagram** panel |
 | 6 | Enter logic values `0` & `1` in the Front Panel and **run** the program to observe output |
