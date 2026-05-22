@@ -13,7 +13,7 @@ To find the sum of 'n' natural numbers using a WHILE loop in LabVIEW.
 ##  Algorithm
 
 | Step | Description | 
-|------|-------------|
+|------|-------------| 
 | 1 | Create a **Blank VI** in LabVIEW |
 | 2 | Right-click on the **Block Diagram** → `Programming → Structures → While Loop` |
 | 3 | Right-click on the **border of the WHILE loop** → Convert tunnels to **Shift Registers** |
